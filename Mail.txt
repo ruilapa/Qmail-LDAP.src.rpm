@@ -1,0 +1,41 @@
+Well it's been a long time since I have written to this ML, and
+I think it's time some people in this ML take it to the next step in the chain of evolution.
+
+So, I decided it was time I contribute something to you guys who helped me,
+but especially, with a BIG token of gratitude to,
+   Claudio Jeker and André Oppermann ( "THE GUYS" ).
+
+About 2 years ago I started developing rpm packages to do the job I many times did:
+   - get packages, get patches, get init's, compile, install, tweak
+
+So, after a stable time, I decided it was time to return them to the comunity.
+
+Built packages:
+
+- qmail-ldap
+- qmail-ldap-config
+
+Independent Documentation package, install on your PC, not on server:
+- qmail-ldap-doc
+
+Most used Daemons:
+- qmail-ldap-pop3d
+- qmail-ldap-qmqpd
+- qmail-ldap-qmtpd
+- qmail-ldap-smtpd
+- qmail-ldap-pbsdbd
+
+Basic binc imap:
+- qmail-ldap-imapd-binc
+- qmail-ldap-imapd-binc-ssl
+
+Basic courier-imap 3.x:
+- qmail-ldap-imapd-courier
+...
+
+In return:
+- Don't bother Claudio or Andre about this
+- Don't ask basic questions
+- Don't ask questions without console logs, and a detailed explanation of what you have done
+- Contribute changes
+- Hire my time! 
