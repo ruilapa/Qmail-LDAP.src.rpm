@@ -1,3 +1,27 @@
+Built packages:
+
+- qmail-ldap
+- qmail-ldap-config
+
+Independent Documentation package, install on your PC, not on server:
+- qmail-ldap-doc
+
+Most used Daemons:
+- qmail-ldap-pop3d
+- qmail-ldap-qmqpd
+- qmail-ldap-qmtpd
+- qmail-ldap-smtpd
+- qmail-ldap-pbsdbd
+
+Basic binc imap:
+- qmail-ldap-imapd-binc
+- qmail-ldap-imapd-binc-ssl
+
+Basic courier-imap 3.x:
+- qmail-ldap-imapd-courier
+... 
+
+
 INSTALL
 
 1 - get an qemu, vmware, ..., clean RH based system (honestly)
